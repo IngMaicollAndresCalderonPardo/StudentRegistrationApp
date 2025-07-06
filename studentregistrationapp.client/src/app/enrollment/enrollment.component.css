@@ -1,0 +1,138 @@
+.courses-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
+  padding: 3rem 1rem;
+  background-color: #f9f9f9;
+  text-align: center;
+  max-width: 960px;
+  margin: auto;
+}
+
+  .courses-container h1 {
+    font-size: 2.2rem;
+    margin-bottom: 2rem;
+    color: #c65f07;
+    font-weight: bold;
+  }
+
+/* Chips grid */
+.chip-wrapper {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 1rem;
+  width: 100%;
+  max-width: 600px;
+  margin: 1rem auto 2rem;
+}
+
+mat-chip-listbox {
+  display: contents;
+}
+
+mat-chip-option {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 40px;
+  font-weight: 500;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 20px;
+  transition: all 0.3s ease;
+  cursor: pointer;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+  mat-chip-option.mat-mdc-chip-selected {
+    background-color: #ff9800 !important;
+    color: white;
+    font-weight: bold;
+    border: none;
+  }
+
+  mat-chip-option:disabled {
+    background-color: #e0e0e0 !important;
+    color: #999;
+    cursor: not-allowed;
+    opacity: 0.6;
+  }
+
+.chip-instructions {
+  margin-bottom: 1rem;
+  font-weight: 500;
+  color: #555;
+}
+
+/* Botón */
+.courses-container button {
+  margin-top: 1rem;
+  padding: 0.75rem 2rem;
+  font-weight: bold;
+  font-size: 1rem;
+  background-color: #c65f07;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  transition: background-color 0.2s ease, transform 0.1s ease;
+}
+
+  .courses-container button:hover:not([disabled]) {
+    background-color: #a04b05;
+    transform: scale(1.02);
+  }
+
+  .courses-container button:disabled {
+    background-color: #ccc;
+    color: #666;
+    cursor: not-allowed;
+  }
+
+/* Tabla de materias inscritas */
+.registered-section {
+  width: 100%;
+  margin-top: 2rem;
+  background: white;
+  padding: 1.5rem;
+  border-radius: 12px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+}
+
+.full-width-table {
+  width: 100%;
+  margin-top: 1rem;
+  border-collapse: collapse;
+}
+
+  .full-width-table th {
+    background-color: #c65f07;
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+
+  .full-width-table td,
+  .full-width-table th {
+    padding: 12px;
+    border-bottom: 1px solid #ddd;
+    text-align: center;
+  }
+
+  .full-width-table tr:hover {
+    background-color: #f5f5f5;
+  }
+
+@media screen and (max-width: 600px) {
+  .chip-wrapper {
+    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+  }
+
+  .courses-container h1 {
+    font-size: 1.5rem;
+  }
+
+  .courses-container button {
+    width: 100%;
+  }
+}

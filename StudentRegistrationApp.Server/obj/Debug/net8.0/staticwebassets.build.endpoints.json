@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "StudentRegistrationApp.Server.saf78fwrz7.styles.css",
+      "AssetFile": "StudentRegistrationApp.Server.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1187"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zFLMcpt/Z4S+gMUkgX87rK8P1vedf0Gytvl5+lVuuA8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Jul 2025 20:47:56 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "saf78fwrz7"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zFLMcpt/Z4S+gMUkgX87rK8P1vedf0Gytvl5+lVuuA8="
+        },
+        {
+          "Name": "label",
+          "Value": "StudentRegistrationApp.Server.styles.css"
+        }
+      ]
+    },
+    {
+      "Route": "StudentRegistrationApp.Server.styles.css",
+      "AssetFile": "StudentRegistrationApp.Server.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1187"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zFLMcpt/Z4S+gMUkgX87rK8P1vedf0Gytvl5+lVuuA8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Jul 2025 20:47:56 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zFLMcpt/Z4S+gMUkgX87rK8P1vedf0Gytvl5+lVuuA8="
+        }
+      ]
+    }
+  ]
+}

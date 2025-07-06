@@ -1,0 +1,51 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #f9f9f9;
+  padding: 2rem;
+  text-align: center;
+}
+
+.welcome-title {
+  font-size: 3rem;
+  font-weight: bold;
+  color: #c65f07;
+  margin-bottom: 1rem;
+}
+
+.welcome-message {
+  font-size: 1.2rem;
+  color: #000;
+  margin-bottom: 2rem;
+  max-width: 600px;
+}
+
+.instructions-list {
+  list-style-type: none;
+  padding: 0;
+  max-width: 700px;
+  text-align: left;
+}
+
+  .instructions-list li {
+    font-size: 1rem;
+    margin-bottom: 1rem;
+    color: #000;
+    line-height: 1.6;
+  }
+
+    .instructions-list li strong {
+      color: #c65f07;
+    }
+
+    .instructions-list li .link {
+      color: #c65f07;
+      text-decoration: underline;
+      cursor: pointer;
+    }
+
+      .instructions-list li .link:hover {
+        text-decoration: none;
+      }

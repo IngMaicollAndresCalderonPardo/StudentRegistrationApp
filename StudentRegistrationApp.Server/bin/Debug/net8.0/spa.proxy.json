@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:57164",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\StudentRegistrationApp.Server\\..\\studentregistrationapp.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

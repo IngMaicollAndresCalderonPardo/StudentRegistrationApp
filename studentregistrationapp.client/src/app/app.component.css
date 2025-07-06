@@ -1,0 +1,25 @@
+mat-toolbar.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+.spacer {
+  flex: 1 1 auto;
+}
+
+mat-toolbar button {
+  margin-left: 10px;
+  text-transform: none;
+}
+
+mat-icon {
+  margin-right: 4px;
+  vertical-align: middle;
+}
+

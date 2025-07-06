@@ -1,0 +1,61 @@
+<div class="login-container">
+  <div class="login-container__logo">
+    <img src="assets/logo.png" alt="Logo">
+  </div>
+  <h1>Inicio de Sesión</h1>
+
+  <form [formGroup]="loginForm" (ngSubmit)="onSubmit()" class="login-form">
+    <mat-form-field class="full-width">
+      <mat-label>Cédula</mat-label>
+      <input matInput formControlName="documentNumber" placeholder="Ingrese su cédula" />
+      <mat-error *ngIf="loginForm.get('documentNumber')?.hasError('required')">
+      La cédula es obligatoria.
+      </mat-error>
+    </mat-form-field>
+
+    <mat-form-field class="full-width">
+      <mat-label>Contraseña</mat-label>
+      <input matInput
+             [type]="hidePassword ? 'password' : 'text'"
+             formControlName="password"
+             placeholder="Ingrese su contraseña" />
+      <button mat-icon-button
+              matSuffix
+              type="button"
+              (click)="togglePasswordVisibility()"
+              [attr.aria-label]="'Mostrar u ocultar contraseña'">
+        <mat-icon>{{ hidePassword ? 'visibility_off' : 'visibility' }}</mat-icon>
+      </button>
+      <mat-error *ngIf="loginForm.get('password')?.hasError('required')">
+        La contraseña es obligatoria.
+      </mat-error>
+    </mat-form-field>
+
+    <!-- Botón de envío -->
+    <button mat-raised-button
+            color="primary"
+            class="full-width"
+            type="submit">
+      Entrar
+    </button>
+
+    <!-- Cargando -->
+    <mat-spinner *ngIf="isLoading" diameter="30" style="margin-top: 10px;"></mat-spinner>
+    <!-- Mensaje de error -->
+    <p *ngIf="errorMessage" class="error">{{ errorMessage }}</p>
+
+  </form>
+
+  <!-- Link de registro accesible -->
+  <p class="register-option">
+    ¿No tienes cuenta?
+    <a role="button"
+       tabindex="0"
+       (click)="onRegister()"
+       class="register-link"
+       [attr.aria-label]="'Ir al formulario de registro'">
+      Regístrate aquí
+    </a>
+  </p>
+
+</div>

@@ -1,0 +1,1 @@
+C:\Users\ingMa\source\repos\StudentRegistrationApp\studentregistrationapp.client\obj\Debug\studentregistrationapp.client.esproj.CoreCompileInputs.cache

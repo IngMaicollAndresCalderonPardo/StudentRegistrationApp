@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/StudentRegistrationApp.Server/StudentRegistrationApp.Server.bundle.scp.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\StudentRegistrationApp.Server.saf78fwrz7.bundle.scp.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-zFLMcpt/Z4S\u002BgMUkgX87rK8P1vedf0Gytvl5\u002BlVuuA8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1187"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022zFLMcpt/Z4S\u002BgMUkgX87rK8P1vedf0Gytvl5\u002BlVuuA8=\u0022"},{"Name":"Last-Modified","Value":"Sun, 06 Jul 2025 20:47:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/StudentRegistrationApp.Server/StudentRegistrationApp.Server.saf78fwrz7.bundle.scp.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\StudentRegistrationApp.Server.saf78fwrz7.bundle.scp.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"saf78fwrz7"},{"Name":"integrity","Value":"sha256-zFLMcpt/Z4S\u002BgMUkgX87rK8P1vedf0Gytvl5\u002BlVuuA8="},{"Name":"label","Value":"_content/StudentRegistrationApp.Server/StudentRegistrationApp.Server.bundle.scp.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1187"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022zFLMcpt/Z4S\u002BgMUkgX87rK8P1vedf0Gytvl5\u002BlVuuA8=\u0022"},{"Name":"Last-Modified","Value":"Sun, 06 Jul 2025 20:47:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,101 @@
+.student-list-container {
+  padding: 3rem;
+  background-color: #fff;
+  min-height: 100vh;
+  color: #000;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.student-list-container__header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 2rem;
+  flex-wrap: wrap;
+}
+
+  .student-list-container__header h1 {
+    color: #c65f07;
+    font-weight: 700;
+    margin: 0;
+    font-size: 2rem;
+  }
+
+.filter-container {
+  min-width: 250px;
+  margin-top: 1rem;
+}
+
+mat-form-field {
+  width: 100%;
+  color: #000;
+}
+
+/* Tabla Material estilizada */
+table.mat-elevation-z8 {
+  background-color: #fff;
+  border-radius: 10px;
+  overflow: hidden;
+  width: 100%;
+  margin-top: 1rem;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+}
+
+table th,
+table td {
+  padding: 16px;
+  color: #000;
+}
+
+table th {
+  background-color: #c65f07;
+  color: #fff;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 0.9rem;
+}
+
+table tr {
+  transition: background-color 0.2s ease;
+}
+
+  table tr:hover {
+    background-color: #f1f1f1;
+    cursor: pointer;
+  }
+
+mat-paginator {
+  margin-top: 2rem;
+}
+
+.mat-paginator-container {
+  background-color: #fff !important;
+  color: #000;
+}
+
+.mat-paginator-range-label,
+.mat-paginator-page-size-label {
+  color: #000;
+}
+
+.mat-icon-button {
+  color: #000;
+}
+
+/* Responsivo */
+@media (max-width: 768px) {
+  .student-list-container__header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+    .student-list-container__header h1 {
+      font-size: 1.5rem;
+    }
+
+  table th,
+  table td {
+    padding: 8px;
+    font-size: 0.85rem;
+  }
+}

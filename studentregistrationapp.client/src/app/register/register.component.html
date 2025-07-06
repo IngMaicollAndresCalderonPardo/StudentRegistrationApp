@@ -1,0 +1,153 @@
+<div class="form">
+  <form [formGroup]="registerForm" (ngSubmit)="onSubmit()" class="form__content">
+    <h1 class="form__title">Registro de Usuario</h1>
+
+    <div class="form__row">
+      <div class="form__field">
+        <mat-form-field appearance="outline" class="form__field-input">
+          <mat-label>Nombre</mat-label>
+          <input matInput placeholder="Ingrese su nombre" formControlName="firstName" />
+          <mat-icon matSuffix>person</mat-icon>
+          <mat-error *ngIf="registerForm.get('firstName')?.hasError('required')">
+            El nombre es obligatorio.
+          </mat-error>
+          <mat-error *ngIf="registerForm.get('firstName')?.hasError('pattern')">
+            El nombre debe contener solo letras.
+          </mat-error>
+        </mat-form-field>
+      </div>
+      <div class="form__field">
+        <mat-form-field appearance="outline" class="form__field-input">
+          <mat-label>Apellido</mat-label>
+          <input matInput placeholder="Ingrese su apellido" formControlName="lastName" />
+          <mat-icon matSuffix>person</mat-icon>
+          <mat-error *ngIf="registerForm.get('lastName')?.hasError('required')">
+            El apellido es obligatorio.
+          </mat-error>
+          <mat-error *ngIf="registerForm.get('lastName')?.hasError('pattern')">
+            El apellido debe contener solo letras.
+          </mat-error>
+        </mat-form-field>
+      </div>
+    </div>
+
+    <div class="form__row">
+      <div class="form__field">
+        <mat-form-field appearance="outline" class="form__field-input">
+          <mat-label>Tipo de Documento</mat-label>
+          <mat-select formControlName="documentType">
+            <mat-option *ngFor="let type of documentTypes" [value]="type">
+              {{ type }}
+            </mat-option>
+          </mat-select>
+        </mat-form-field>
+      </div>
+      <div class="form__field">
+        <mat-form-field appearance="outline" class="form__field-input">
+          <mat-label>Número de Documento</mat-label>
+          <input matInput type="text" placeholder="Ingrese su número de documento" formControlName="documentNumber" />
+          <mat-icon matSuffix>credit_card</mat-icon>
+        </mat-form-field>
+      </div>
+    </div>
+
+    <div class="form__row">
+      <div class="form__field">
+        <mat-form-field appearance="outline" class="form__field-input">
+          <mat-label>Correo</mat-label>
+          <input matInput type="email" placeholder="Ingrese su correo" formControlName="email" />
+          <mat-icon matSuffix>email</mat-icon>
+          <mat-error *ngIf="registerForm.get('email')?.hasError('required')">
+            El correo es obligatorio.
+          </mat-error>
+          <mat-error *ngIf="registerForm.get('email')?.hasError('email')">
+            Ingrese un correo válido.
+          </mat-error>
+        </mat-form-field>
+      </div>
+    </div>
+
+    <div class="form__row">
+      <div class="form__field">
+        <mat-form-field appearance="outline" class="form__field-input">
+          <mat-label>Contraseña</mat-label>
+          <input matInput [type]="hidePassword ? 'password' : 'text'" formControlName="password" />
+          <button mat-icon-button matSuffix type="button" (click)="togglePasswordVisibility()">
+            <mat-icon>{{ hidePassword ? 'visibility_off' : 'visibility' }}</mat-icon>
+          </button>
+          <mat-error *ngIf="registerForm.get('password')?.hasError('required')">
+            La contraseña es obligatoria.
+          </mat-error>
+          <mat-error *ngIf="registerForm.get('password')?.hasError('minlength') || registerForm.get('password')?.hasError('maxlength')">
+            La contraseña debe tener más de 5 caracteres.
+          </mat-error>
+          <mat-error *ngIf="registerForm.get('password')?.hasError('pattern')">
+            La contraseña debe comenzar con una mayúscula e incluir al menos 2 números.
+          </mat-error>
+        </mat-form-field>
+      </div>
+      <div class="form__field">
+        <mat-form-field appearance="outline" class="form__field-input">
+          <mat-label>Confirmar Contraseña</mat-label>
+          <input matInput [type]="hideConfirmPassword ? 'password' : 'text'" formControlName="confirmPassword" />
+          <button mat-icon-button matSuffix type="button" (click)="toggleConfirmPasswordVisibility()">
+            <mat-icon>{{ hideConfirmPassword ? 'visibility_off' : 'visibility' }}</mat-icon>
+          </button>
+          <mat-error *ngIf="registerForm.get('confirmPassword')?.hasError('required')">
+            Este campo es obligatorio
+          </mat-error>
+          <mat-error *ngIf="registerForm.get('confirmPassword')?.hasError('passwordsMismatch')">
+            Las contraseñas no coinciden
+          </mat-error>
+        </mat-form-field>
+      </div>
+    </div>
+
+    <div class="form__row">
+      <div class="form__field">
+        <mat-form-field appearance="outline" class="form__field-input">
+          <mat-label>Numero de Celular</mat-label>
+          <input matInput type="text" placeholder="Ingrese su numero de celular" formControlName="phone" />
+          <mat-icon matSuffix>phone</mat-icon>
+          <mat-error *ngIf="registerForm.get('phone')?.hasError('required')">
+            El número de celular es obligatorio.
+          </mat-error>
+          <mat-error *ngIf="registerForm.get('phone')?.hasError('pattern')">
+            El número de celular debe tener 10 dígitos numéricos.
+          </mat-error>
+        </mat-form-field>
+      </div>
+      <div class="form__field">
+        <mat-form-field appearance="outline" class="form__field-input">
+          <mat-label>Dirección</mat-label>
+          <input matInput placeholder="Ingrese su dirección" formControlName="address" />
+          <mat-icon matSuffix>home</mat-icon>
+          <mat-error *ngIf="registerForm.get('address')?.hasError('required')">
+            La dirección es obligatoria.
+          </mat-error>
+        </mat-form-field>
+      </div>
+    </div>
+
+    <div class="form__row" formGroupName="birthDate">
+      <div class="form__field">
+        <mat-form-field appearance="outline" class="form__field-input">
+          <mat-label>Fecha de Nacimiento</mat-label>
+          <input matInput [matDatepicker]="picker" placeholder="Seleccione su fecha" formControlName="startDate" />
+          <mat-datepicker-toggle matSuffix [for]="picker"></mat-datepicker-toggle>
+          <mat-datepicker #picker></mat-datepicker>
+          <mat-error *ngIf="registerForm.get('birthDate.startDate')?.hasError('required')">
+            La fecha es obligatoria.
+          </mat-error>
+        </mat-form-field>
+      </div>
+    </div>
+
+    <div class="form__row buttons">
+        <button mat-button color="warn" (click)="onCancel()">Cancelar</button>
+      <button mat-raised-button color="primary" type="submit" [disabled]="registerForm.invalid">
+        Registrarse
+      </button>
+    </div>
+  </form>
+</div>

@@ -1,0 +1,1045 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9734FFC9-063A-4E24-8154-9EDB0D4A25B8}|StudentRegistrationApp.Server\\StudentRegistrationApp.Server.csproj|c:\\users\\ingma\\source\\repos\\studentregistrationapp\\studentregistrationapp.server\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9734FFC9-063A-4E24-8154-9EDB0D4A25B8}|StudentRegistrationApp.Server\\StudentRegistrationApp.Server.csproj|solutionrelative:studentregistrationapp.server\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|c:\\users\\ingma\\source\\repos\\studentregistrationapp\\studentregistrationapp.client\\src\\app\\register\\register.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|solutionrelative:studentregistrationapp.client\\src\\app\\register\\register.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9734FFC9-063A-4E24-8154-9EDB0D4A25B8}|StudentRegistrationApp.Server\\StudentRegistrationApp.Server.csproj|c:\\users\\ingma\\source\\repos\\studentregistrationapp\\studentregistrationapp.server\\studentregistrationapp.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9734FFC9-063A-4E24-8154-9EDB0D4A25B8}|StudentRegistrationApp.Server\\StudentRegistrationApp.Server.csproj|solutionrelative:studentregistrationapp.server\\studentregistrationapp.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|c:\\users\\ingma\\source\\repos\\studentregistrationapp\\studentregistrationapp.client\\src\\app\\home\\home.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|solutionrelative:studentregistrationapp.client\\src\\app\\home\\home.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9734FFC9-063A-4E24-8154-9EDB0D4A25B8}|StudentRegistrationApp.Server\\StudentRegistrationApp.Server.csproj|c:\\users\\ingma\\source\\repos\\studentregistrationapp\\studentregistrationapp.server\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9734FFC9-063A-4E24-8154-9EDB0D4A25B8}|StudentRegistrationApp.Server\\StudentRegistrationApp.Server.csproj|solutionrelative:studentregistrationapp.server\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9734FFC9-063A-4E24-8154-9EDB0D4A25B8}|StudentRegistrationApp.Server\\StudentRegistrationApp.Server.csproj|c:\\users\\ingma\\source\\repos\\studentregistrationapp\\studentregistrationapp.server\\models\\enrollsubjectrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9734FFC9-063A-4E24-8154-9EDB0D4A25B8}|StudentRegistrationApp.Server\\StudentRegistrationApp.Server.csproj|solutionrelative:studentregistrationapp.server\\models\\enrollsubjectrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9734FFC9-063A-4E24-8154-9EDB0D4A25B8}|StudentRegistrationApp.Server\\StudentRegistrationApp.Server.csproj|c:\\users\\ingma\\source\\repos\\studentregistrationapp\\studentregistrationapp.server\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9734FFC9-063A-4E24-8154-9EDB0D4A25B8}|StudentRegistrationApp.Server\\StudentRegistrationApp.Server.csproj|solutionrelative:studentregistrationapp.server\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|c:\\users\\ingma\\source\\repos\\studentregistrationapp\\studentregistrationapp.client\\src\\app\\enrollment\\enrollment.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|solutionrelative:studentregistrationapp.client\\src\\app\\enrollment\\enrollment.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9734FFC9-063A-4E24-8154-9EDB0D4A25B8}|StudentRegistrationApp.Server\\StudentRegistrationApp.Server.csproj|c:\\users\\ingma\\source\\repos\\studentregistrationapp\\studentregistrationapp.server\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9734FFC9-063A-4E24-8154-9EDB0D4A25B8}|StudentRegistrationApp.Server\\StudentRegistrationApp.Server.csproj|solutionrelative:studentregistrationapp.server\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9734FFC9-063A-4E24-8154-9EDB0D4A25B8}|StudentRegistrationApp.Server\\StudentRegistrationApp.Server.csproj|c:\\users\\ingma\\source\\repos\\studentregistrationapp\\studentregistrationapp.server\\models\\studentsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9734FFC9-063A-4E24-8154-9EDB0D4A25B8}|StudentRegistrationApp.Server\\StudentRegistrationApp.Server.csproj|solutionrelative:studentregistrationapp.server\\models\\studentsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9734FFC9-063A-4E24-8154-9EDB0D4A25B8}|StudentRegistrationApp.Server\\StudentRegistrationApp.Server.csproj|c:\\users\\ingma\\source\\repos\\studentregistrationapp\\studentregistrationapp.server\\models\\studentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9734FFC9-063A-4E24-8154-9EDB0D4A25B8}|StudentRegistrationApp.Server\\StudentRegistrationApp.Server.csproj|solutionrelative:studentregistrationapp.server\\models\\studentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9734FFC9-063A-4E24-8154-9EDB0D4A25B8}|StudentRegistrationApp.Server\\StudentRegistrationApp.Server.csproj|c:\\users\\ingma\\source\\repos\\studentregistrationapp\\studentregistrationapp.server\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9734FFC9-063A-4E24-8154-9EDB0D4A25B8}|StudentRegistrationApp.Server\\StudentRegistrationApp.Server.csproj|solutionrelative:studentregistrationapp.server\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9734FFC9-063A-4E24-8154-9EDB0D4A25B8}|StudentRegistrationApp.Server\\StudentRegistrationApp.Server.csproj|c:\\users\\ingma\\source\\repos\\studentregistrationapp\\studentregistrationapp.server\\models\\professorsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9734FFC9-063A-4E24-8154-9EDB0D4A25B8}|StudentRegistrationApp.Server\\StudentRegistrationApp.Server.csproj|solutionrelative:studentregistrationapp.server\\models\\professorsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9734FFC9-063A-4E24-8154-9EDB0D4A25B8}|StudentRegistrationApp.Server\\StudentRegistrationApp.Server.csproj|c:\\users\\ingma\\source\\repos\\studentregistrationapp\\studentregistrationapp.server\\models\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9734FFC9-063A-4E24-8154-9EDB0D4A25B8}|StudentRegistrationApp.Server\\StudentRegistrationApp.Server.csproj|solutionrelative:studentregistrationapp.server\\models\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9734FFC9-063A-4E24-8154-9EDB0D4A25B8}|StudentRegistrationApp.Server\\StudentRegistrationApp.Server.csproj|c:\\users\\ingma\\source\\repos\\studentregistrationapp\\studentregistrationapp.server\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9734FFC9-063A-4E24-8154-9EDB0D4A25B8}|StudentRegistrationApp.Server\\StudentRegistrationApp.Server.csproj|solutionrelative:studentregistrationapp.server\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9734FFC9-063A-4E24-8154-9EDB0D4A25B8}|StudentRegistrationApp.Server\\StudentRegistrationApp.Server.csproj|c:\\users\\ingma\\source\\repos\\studentregistrationapp\\studentregistrationapp.server\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9734FFC9-063A-4E24-8154-9EDB0D4A25B8}|StudentRegistrationApp.Server\\StudentRegistrationApp.Server.csproj|solutionrelative:studentregistrationapp.server\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9734FFC9-063A-4E24-8154-9EDB0D4A25B8}|StudentRegistrationApp.Server\\StudentRegistrationApp.Server.csproj|c:\\users\\ingma\\source\\repos\\studentregistrationapp\\studentregistrationapp.server\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9734FFC9-063A-4E24-8154-9EDB0D4A25B8}|StudentRegistrationApp.Server\\StudentRegistrationApp.Server.csproj|solutionrelative:studentregistrationapp.server\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|c:\\users\\ingma\\source\\repos\\studentregistrationapp\\studentregistrationapp.client\\src\\app\\services\\courses.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|solutionrelative:studentregistrationapp.client\\src\\app\\services\\courses.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|c:\\users\\ingma\\source\\repos\\studentregistrationapp\\studentregistrationapp.client\\src\\app\\services\\auth.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|solutionrelative:studentregistrationapp.client\\src\\app\\services\\auth.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|c:\\users\\ingma\\source\\repos\\studentregistrationapp\\studentregistrationapp.client\\src\\app\\services\\student.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|solutionrelative:studentregistrationapp.client\\src\\app\\services\\student.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|c:\\users\\ingma\\source\\repos\\studentregistrationapp\\studentregistrationapp.client\\src\\app\\update-profile\\update-profile.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|solutionrelative:studentregistrationapp.client\\src\\app\\update-profile\\update-profile.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|c:\\users\\ingma\\source\\repos\\studentregistrationapp\\studentregistrationapp.client\\src\\app\\update-profile\\update-profile.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|solutionrelative:studentregistrationapp.client\\src\\app\\update-profile\\update-profile.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|c:\\users\\ingma\\source\\repos\\studentregistrationapp\\studentregistrationapp.client\\src\\app\\login\\login.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|solutionrelative:studentregistrationapp.client\\src\\app\\login\\login.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|c:\\users\\ingma\\source\\repos\\studentregistrationapp\\studentregistrationapp.client\\src\\app\\login\\login.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|solutionrelative:studentregistrationapp.client\\src\\app\\login\\login.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|c:\\users\\ingma\\source\\repos\\studentregistrationapp\\studentregistrationapp.client\\src\\app\\login\\login.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|solutionrelative:studentregistrationapp.client\\src\\app\\login\\login.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|c:\\users\\ingma\\source\\repos\\studentregistrationapp\\studentregistrationapp.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|solutionrelative:studentregistrationapp.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|c:\\users\\ingma\\source\\repos\\studentregistrationapp\\studentregistrationapp.client\\src\\app\\register\\register.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|solutionrelative:studentregistrationapp.client\\src\\app\\register\\register.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|c:\\users\\ingma\\source\\repos\\studentregistrationapp\\studentregistrationapp.client\\src\\app\\register\\register.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|solutionrelative:studentregistrationapp.client\\src\\app\\register\\register.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|c:\\users\\ingma\\source\\repos\\studentregistrationapp\\studentregistrationapp.client\\src\\app\\app.routes.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|solutionrelative:studentregistrationapp.client\\src\\app\\app.routes.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|c:\\users\\ingma\\source\\repos\\studentregistrationapp\\studentregistrationapp.client\\src\\app\\update-profile\\update-profile.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|solutionrelative:studentregistrationapp.client\\src\\app\\update-profile\\update-profile.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|c:\\users\\ingma\\source\\repos\\studentregistrationapp\\studentregistrationapp.client\\src\\app\\student-list\\student-list.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|solutionrelative:studentregistrationapp.client\\src\\app\\student-list\\student-list.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|c:\\users\\ingma\\source\\repos\\studentregistrationapp\\studentregistrationapp.client\\src\\app\\student-list\\student-list.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|solutionrelative:studentregistrationapp.client\\src\\app\\student-list\\student-list.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|c:\\users\\ingma\\source\\repos\\studentregistrationapp\\studentregistrationapp.client\\src\\app\\student-list\\student-list.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|solutionrelative:studentregistrationapp.client\\src\\app\\student-list\\student-list.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9734FFC9-063A-4E24-8154-9EDB0D4A25B8}|StudentRegistrationApp.Server\\StudentRegistrationApp.Server.csproj|c:\\users\\ingma\\source\\repos\\studentregistrationapp\\studentregistrationapp.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9734FFC9-063A-4E24-8154-9EDB0D4A25B8}|StudentRegistrationApp.Server\\StudentRegistrationApp.Server.csproj|solutionrelative:studentregistrationapp.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9734FFC9-063A-4E24-8154-9EDB0D4A25B8}|StudentRegistrationApp.Server\\StudentRegistrationApp.Server.csproj|c:\\users\\ingma\\source\\repos\\studentregistrationapp\\studentregistrationapp.server\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9734FFC9-063A-4E24-8154-9EDB0D4A25B8}|StudentRegistrationApp.Server\\StudentRegistrationApp.Server.csproj|solutionrelative:studentregistrationapp.server\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|c:\\users\\ingma\\source\\repos\\studentregistrationapp\\studentregistrationapp.client\\src\\app\\services\\student.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|solutionrelative:studentregistrationapp.client\\src\\app\\services\\student.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|c:\\users\\ingma\\source\\repos\\studentregistrationapp\\studentregistrationapp.client\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|solutionrelative:studentregistrationapp.client\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|c:\\users\\ingma\\source\\repos\\studentregistrationapp\\studentregistrationapp.client\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|solutionrelative:studentregistrationapp.client\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|c:\\users\\ingma\\source\\repos\\studentregistrationapp\\studentregistrationapp.client\\src\\proxy.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|solutionrelative:studentregistrationapp.client\\src\\proxy.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|c:\\users\\ingma\\source\\repos\\studentregistrationapp\\studentregistrationapp.client\\proxy.conf.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|solutionrelative:studentregistrationapp.client\\proxy.conf.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|c:\\users\\ingma\\source\\repos\\studentregistrationapp\\studentregistrationapp.client\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|solutionrelative:studentregistrationapp.client\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|c:\\users\\ingma\\source\\repos\\studentregistrationapp\\studentregistrationapp.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|solutionrelative:studentregistrationapp.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|c:\\users\\ingma\\source\\repos\\studentregistrationapp\\studentregistrationapp.client\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|solutionrelative:studentregistrationapp.client\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|c:\\users\\ingma\\source\\repos\\studentregistrationapp\\studentregistrationapp.client\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|solutionrelative:studentregistrationapp.client\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|c:\\users\\ingma\\source\\repos\\studentregistrationapp\\studentregistrationapp.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|solutionrelative:studentregistrationapp.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|c:\\users\\ingma\\source\\repos\\studentregistrationapp\\studentregistrationapp.client\\src\\custom-theme.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|solutionrelative:studentregistrationapp.client\\src\\custom-theme.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|c:\\users\\ingma\\source\\repos\\studentregistrationapp\\studentregistrationapp.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|solutionrelative:studentregistrationapp.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|c:\\users\\ingma\\source\\repos\\studentregistrationapp\\studentregistrationapp.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|solutionrelative:studentregistrationapp.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|c:\\users\\ingma\\source\\repos\\studentregistrationapp\\studentregistrationapp.client\\src\\app\\services\\courses.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|solutionrelative:studentregistrationapp.client\\src\\app\\services\\courses.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|c:\\users\\ingma\\source\\repos\\studentregistrationapp\\studentregistrationapp.client\\src\\app\\services\\auth.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|solutionrelative:studentregistrationapp.client\\src\\app\\services\\auth.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|c:\\users\\ingma\\source\\repos\\studentregistrationapp\\studentregistrationapp.client\\src\\app\\models\\student.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|solutionrelative:studentregistrationapp.client\\src\\app\\models\\student.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|c:\\users\\ingma\\source\\repos\\studentregistrationapp\\studentregistrationapp.client\\src\\app\\models\\subject.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|solutionrelative:studentregistrationapp.client\\src\\app\\models\\subject.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|c:\\users\\ingma\\source\\repos\\studentregistrationapp\\studentregistrationapp.client\\src\\app\\enrollment\\enrollment.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|solutionrelative:studentregistrationapp.client\\src\\app\\enrollment\\enrollment.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|c:\\users\\ingma\\source\\repos\\studentregistrationapp\\studentregistrationapp.client\\src\\app\\enrollment\\enrollment.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|solutionrelative:studentregistrationapp.client\\src\\app\\enrollment\\enrollment.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|c:\\users\\ingma\\source\\repos\\studentregistrationapp\\studentregistrationapp.client\\src\\app\\home\\home.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|solutionrelative:studentregistrationapp.client\\src\\app\\home\\home.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|c:\\users\\ingma\\source\\repos\\studentregistrationapp\\studentregistrationapp.client\\src\\app\\home\\home.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|solutionrelative:studentregistrationapp.client\\src\\app\\home\\home.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|c:\\users\\ingma\\source\\repos\\studentregistrationapp\\studentregistrationapp.client\\src\\app\\my-courses\\my-courses.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|solutionrelative:studentregistrationapp.client\\src\\app\\my-courses\\my-courses.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|c:\\users\\ingma\\source\\repos\\studentregistrationapp\\studentregistrationapp.client\\src\\app\\my-courses\\my-courses.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|solutionrelative:studentregistrationapp.client\\src\\app\\my-courses\\my-courses.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|c:\\users\\ingma\\source\\repos\\studentregistrationapp\\studentregistrationapp.client\\src\\app\\my-courses\\my-courses.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|solutionrelative:studentregistrationapp.client\\src\\app\\my-courses\\my-courses.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|c:\\users\\ingma\\source\\repos\\studentregistrationapp\\studentregistrationapp.client\\src\\app\\student-form\\student-form.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5FB8A5F0-5DEB-0561-88F0-B301246CF545}|studentregistrationapp.client\\studentregistrationapp.client.esproj|solutionrelative:studentregistrationapp.client\\src\\app\\student-form\\student-form.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9734FFC9-063A-4E24-8154-9EDB0D4A25B8}|StudentRegistrationApp.Server\\StudentRegistrationApp.Server.csproj|c:\\users\\ingma\\source\\repos\\studentregistrationapp\\studentregistrationapp.server\\studentregistrationapp.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{9734FFC9-063A-4E24-8154-9EDB0D4A25B8}|StudentRegistrationApp.Server\\StudentRegistrationApp.Server.csproj|solutionrelative:studentregistrationapp.server\\studentregistrationapp.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9734FFC9-063A-4E24-8154-9EDB0D4A25B8}|StudentRegistrationApp.Server\\StudentRegistrationApp.Server.csproj|c:\\users\\ingma\\source\\repos\\studentregistrationapp\\studentregistrationapp.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9734FFC9-063A-4E24-8154-9EDB0D4A25B8}|StudentRegistrationApp.Server\\StudentRegistrationApp.Server.csproj|solutionrelative:studentregistrationapp.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 28,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "enrollment.component.html",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\enrollment\\enrollment.component.html",
+              "RelativeDocumentMoniker": "studentregistrationapp.client\\src\\app\\enrollment\\enrollment.component.html",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\enrollment\\enrollment.component.html",
+              "RelativeToolTip": "studentregistrationapp.client\\src\\app\\enrollment\\enrollment.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-04T22:40:57.948Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "enrollment.component.ts",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\enrollment\\enrollment.component.ts",
+              "RelativeDocumentMoniker": "studentregistrationapp.client\\src\\app\\enrollment\\enrollment.component.ts",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\enrollment\\enrollment.component.ts",
+              "RelativeToolTip": "studentregistrationapp.client\\src\\app\\enrollment\\enrollment.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-04T22:38:47.552Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "enrollment.component.css",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\enrollment\\enrollment.component.css",
+              "RelativeDocumentMoniker": "studentregistrationapp.client\\src\\app\\enrollment\\enrollment.component.css",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\enrollment\\enrollment.component.css",
+              "RelativeToolTip": "studentregistrationapp.client\\src\\app\\enrollment\\enrollment.component.css",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAiwIoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-05T02:06:40.464Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "courses.service.ts",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\services\\courses.service.ts",
+              "RelativeDocumentMoniker": "studentregistrationapp.client\\src\\app\\services\\courses.service.ts",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\services\\courses.service.ts",
+              "RelativeToolTip": "studentregistrationapp.client\\src\\app\\services\\courses.service.ts",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABwAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-04T22:29:38.506Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "studentregistrationapp.client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "studentregistrationapp.client\\src\\app\\app.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-04T20:58:02.863Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "my-courses.component.ts",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\my-courses\\my-courses.component.ts",
+              "RelativeDocumentMoniker": "studentregistrationapp.client\\src\\app\\my-courses\\my-courses.component.ts",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\my-courses\\my-courses.component.ts",
+              "RelativeToolTip": "studentregistrationapp.client\\src\\app\\my-courses\\my-courses.component.ts",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-05T13:54:05.92Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "my-courses.component.html",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\my-courses\\my-courses.component.html",
+              "RelativeDocumentMoniker": "studentregistrationapp.client\\src\\app\\my-courses\\my-courses.component.html",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\my-courses\\my-courses.component.html",
+              "RelativeToolTip": "studentregistrationapp.client\\src\\app\\my-courses\\my-courses.component.html",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswAwAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-05T18:14:28.032Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "home.component.ts",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\home\\home.component.ts",
+              "RelativeDocumentMoniker": "studentregistrationapp.client\\src\\app\\home\\home.component.ts",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\home\\home.component.ts",
+              "RelativeToolTip": "studentregistrationapp.client\\src\\app\\home\\home.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-05T14:09:20.879Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "angular.json",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\angular.json",
+              "RelativeDocumentMoniker": "studentregistrationapp.client\\angular.json",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\angular.json",
+              "RelativeToolTip": "studentregistrationapp.client\\angular.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-05T15:14:46.163Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "custom-theme.scss",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\custom-theme.scss",
+              "RelativeDocumentMoniker": "studentregistrationapp.client\\src\\custom-theme.scss",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\custom-theme.scss",
+              "RelativeToolTip": "studentregistrationapp.client\\src\\custom-theme.scss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2025-07-05T15:14:25.922Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "student-list.component.css",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\student-list\\student-list.component.css",
+              "RelativeDocumentMoniker": "studentregistrationapp.client\\src\\app\\student-list\\student-list.component.css",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\student-list\\student-list.component.css",
+              "RelativeToolTip": "studentregistrationapp.client\\src\\app\\student-list\\student-list.component.css",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAowFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-05T20:36:32.689Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "student-list.component.html",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\student-list\\student-list.component.html",
+              "RelativeDocumentMoniker": "studentregistrationapp.client\\src\\app\\student-list\\student-list.component.html",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\student-list\\student-list.component.html",
+              "RelativeToolTip": "studentregistrationapp.client\\src\\app\\student-list\\student-list.component.html",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwCgAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-05T18:24:29.495Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "student-list.component.ts",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\student-list\\student-list.component.ts",
+              "RelativeDocumentMoniker": "studentregistrationapp.client\\src\\app\\student-list\\student-list.component.ts",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\student-list\\student-list.component.ts",
+              "RelativeToolTip": "studentregistrationapp.client\\src\\app\\student-list\\student-list.component.ts",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAACUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-05T16:08:02.516Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "home.component.html",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\home\\home.component.html",
+              "RelativeDocumentMoniker": "studentregistrationapp.client\\src\\app\\home\\home.component.html",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\home\\home.component.html",
+              "RelativeToolTip": "studentregistrationapp.client\\src\\app\\home\\home.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-05T13:50:04.042Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "login.component.html",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\login\\login.component.html",
+              "RelativeDocumentMoniker": "studentregistrationapp.client\\src\\app\\login\\login.component.html",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\login\\login.component.html",
+              "RelativeToolTip": "studentregistrationapp.client\\src\\app\\login\\login.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-05T02:29:34.585Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "login.component.ts",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\login\\login.component.ts",
+              "RelativeDocumentMoniker": "studentregistrationapp.client\\src\\app\\login\\login.component.ts",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\login\\login.component.ts",
+              "RelativeToolTip": "studentregistrationapp.client\\src\\app\\login\\login.component.ts",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAiwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-05T14:12:36.85Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "main.ts",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\main.ts",
+              "RelativeDocumentMoniker": "studentregistrationapp.client\\src\\main.ts",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\main.ts",
+              "RelativeToolTip": "studentregistrationapp.client\\src\\main.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-05T14:08:22.134Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "app.routes.ts",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\app.routes.ts",
+              "RelativeDocumentMoniker": "studentregistrationapp.client\\src\\app\\app.routes.ts",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\app.routes.ts",
+              "RelativeToolTip": "studentregistrationapp.client\\src\\app\\app.routes.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-05T17:25:23.176Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "register.component.ts",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\register\\register.component.ts",
+              "RelativeDocumentMoniker": "studentregistrationapp.client\\src\\app\\register\\register.component.ts",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\register\\register.component.ts",
+              "RelativeToolTip": "studentregistrationapp.client\\src\\app\\register\\register.component.ts",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAiwHwAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-04T20:51:43.404Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "register.component.css",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\register\\register.component.css",
+              "RelativeDocumentMoniker": "studentregistrationapp.client\\src\\app\\register\\register.component.css",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\register\\register.component.css",
+              "RelativeToolTip": "studentregistrationapp.client\\src\\app\\register\\register.component.css",
+              "ViewState": "AgIAADsAAAAAAAAAAAAuwEQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-05T18:00:05.119Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "register.component.html",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\register\\register.component.html",
+              "RelativeDocumentMoniker": "studentregistrationapp.client\\src\\app\\register\\register.component.html",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\register\\register.component.html",
+              "RelativeToolTip": "studentregistrationapp.client\\src\\app\\register\\register.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-04T20:51:32.216Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "app.component.css",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\app.component.css",
+              "RelativeDocumentMoniker": "studentregistrationapp.client\\src\\app\\app.component.css",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\app.component.css",
+              "RelativeToolTip": "studentregistrationapp.client\\src\\app\\app.component.css",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-05T22:54:21.641Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "studentregistrationapp.client\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\app.component.html",
+              "RelativeToolTip": "studentregistrationapp.client\\src\\app\\app.component.html",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-05T17:16:57.651Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "studentregistrationapp.client\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\app.component.ts",
+              "RelativeToolTip": "studentregistrationapp.client\\src\\app\\app.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-05T17:24:32.089Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "student.service.ts",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\services\\student.service.ts",
+              "RelativeDocumentMoniker": "studentregistrationapp.client\\src\\app\\services\\student.service.ts",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\services\\student.service.ts",
+              "RelativeToolTip": "studentregistrationapp.client\\src\\app\\services\\student.service.ts",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAB0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-05T20:24:43.114Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "update-profile.component.ts",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\update-profile\\update-profile.component.ts",
+              "RelativeDocumentMoniker": "studentregistrationapp.client\\src\\app\\update-profile\\update-profile.component.ts",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\update-profile\\update-profile.component.ts",
+              "RelativeToolTip": "studentregistrationapp.client\\src\\app\\update-profile\\update-profile.component.ts",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-06T13:59:51.387Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "update-profile.component.html",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\update-profile\\update-profile.component.html",
+              "RelativeDocumentMoniker": "studentregistrationapp.client\\src\\app\\update-profile\\update-profile.component.html",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\update-profile\\update-profile.component.html",
+              "RelativeToolTip": "studentregistrationapp.client\\src\\app\\update-profile\\update-profile.component.html",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwCgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-06T14:06:41.17Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "update-profile.component.css",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\update-profile\\update-profile.component.css",
+              "RelativeDocumentMoniker": "studentregistrationapp.client\\src\\app\\update-profile\\update-profile.component.css",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\update-profile\\update-profile.component.css",
+              "RelativeToolTip": "studentregistrationapp.client\\src\\app\\update-profile\\update-profile.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-06T15:44:45.623Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\StudentRegistrationApp.Server\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "StudentRegistrationApp.Server\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\StudentRegistrationApp.Server\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "StudentRegistrationApp.Server\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAcwDwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T00:20:31.838Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\StudentRegistrationApp.Server\\Models\\StudentUpdateDto.cs",
+              "RelativeDocumentMoniker": "StudentRegistrationApp.Server\\Models\\StudentUpdateDto.cs",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\StudentRegistrationApp.Server\\Models\\StudentUpdateDto.cs",
+              "RelativeToolTip": "StudentRegistrationApp.Server\\Models\\StudentUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T15:31:56.092Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\StudentRegistrationApp.Server\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "StudentRegistrationApp.Server\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\StudentRegistrationApp.Server\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "StudentRegistrationApp.Server\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T17:25:50.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnrollSubjectRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\StudentRegistrationApp.Server\\Models\\EnrollSubjectRequest.cs",
+              "RelativeDocumentMoniker": "StudentRegistrationApp.Server\\Models\\EnrollSubjectRequest.cs",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\StudentRegistrationApp.Server\\Models\\EnrollSubjectRequest.cs",
+              "RelativeToolTip": "StudentRegistrationApp.Server\\Models\\EnrollSubjectRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T17:25:45.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\StudentRegistrationApp.Server\\Data\\AppDbContextFactory.cs",
+              "RelativeDocumentMoniker": "StudentRegistrationApp.Server\\Data\\AppDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\StudentRegistrationApp.Server\\Data\\AppDbContextFactory.cs",
+              "RelativeToolTip": "StudentRegistrationApp.Server\\Data\\AppDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T17:25:33.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "auth.service.ts",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\services\\auth.service.ts",
+              "RelativeDocumentMoniker": "studentregistrationapp.client\\src\\app\\services\\auth.service.ts",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\services\\auth.service.ts",
+              "RelativeToolTip": "studentregistrationapp.client\\src\\app\\services\\auth.service.ts",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-05T19:51:13.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\StudentRegistrationApp.Server\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentRegistrationApp.Server\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\StudentRegistrationApp.Server\\Models\\Student.cs",
+              "RelativeToolTip": "StudentRegistrationApp.Server\\Models\\Student.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAASwCQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T14:35:35.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\StudentRegistrationApp.Server\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "StudentRegistrationApp.Server\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\StudentRegistrationApp.Server\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "StudentRegistrationApp.Server\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAhwCkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T00:33:34.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentRegistrationApp.Server.csproj",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\StudentRegistrationApp.Server\\StudentRegistrationApp.Server.csproj",
+              "RelativeDocumentMoniker": "StudentRegistrationApp.Server\\StudentRegistrationApp.Server.csproj",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\StudentRegistrationApp.Server\\StudentRegistrationApp.Server.csproj",
+              "RelativeToolTip": "StudentRegistrationApp.Server\\StudentRegistrationApp.Server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-05T16:43:29.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\StudentRegistrationApp.Server\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "StudentRegistrationApp.Server\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\StudentRegistrationApp.Server\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "StudentRegistrationApp.Server\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T17:25:55.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Professor.cs",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\StudentRegistrationApp.Server\\Models\\Professor.cs",
+              "RelativeDocumentMoniker": "StudentRegistrationApp.Server\\Models\\Professor.cs",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\StudentRegistrationApp.Server\\Models\\Professor.cs",
+              "RelativeToolTip": "StudentRegistrationApp.Server\\Models\\Professor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T17:26:24.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProfessorSubject.cs",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\StudentRegistrationApp.Server\\Models\\ProfessorSubject.cs",
+              "RelativeDocumentMoniker": "StudentRegistrationApp.Server\\Models\\ProfessorSubject.cs",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\StudentRegistrationApp.Server\\Models\\ProfessorSubject.cs",
+              "RelativeToolTip": "StudentRegistrationApp.Server\\Models\\ProfessorSubject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T17:26:28.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentSubject.cs",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\StudentRegistrationApp.Server\\Models\\StudentSubject.cs",
+              "RelativeDocumentMoniker": "StudentRegistrationApp.Server\\Models\\StudentSubject.cs",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\StudentRegistrationApp.Server\\Models\\StudentSubject.cs",
+              "RelativeToolTip": "StudentRegistrationApp.Server\\Models\\StudentSubject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T17:26:38.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\StudentRegistrationApp.Server\\Models\\Subject.cs",
+              "RelativeDocumentMoniker": "StudentRegistrationApp.Server\\Models\\Subject.cs",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\StudentRegistrationApp.Server\\Models\\Subject.cs",
+              "RelativeToolTip": "StudentRegistrationApp.Server\\Models\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T17:26:42.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\StudentRegistrationApp.Server\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StudentRegistrationApp.Server\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\StudentRegistrationApp.Server\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StudentRegistrationApp.Server\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T00:33:36.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\package.json",
+              "RelativeDocumentMoniker": "studentregistrationapp.client\\package.json",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\package.json",
+              "RelativeToolTip": "studentregistrationapp.client\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-04T21:03:42.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\StudentRegistrationApp.Server\\Program.cs",
+              "RelativeDocumentMoniker": "StudentRegistrationApp.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\StudentRegistrationApp.Server\\Program.cs",
+              "RelativeToolTip": "StudentRegistrationApp.Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T21:48:57.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "student.service.spec.ts",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\services\\student.service.spec.ts",
+              "RelativeDocumentMoniker": "studentregistrationapp.client\\src\\app\\services\\student.service.spec.ts",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\services\\student.service.spec.ts",
+              "RelativeToolTip": "studentregistrationapp.client\\src\\app\\services\\student.service.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-06T13:34:34.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\StudentRegistrationApp.Server\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "StudentRegistrationApp.Server\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\StudentRegistrationApp.Server\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "StudentRegistrationApp.Server\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T00:02:12.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "student.ts",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\models\\student.ts",
+              "RelativeDocumentMoniker": "studentregistrationapp.client\\src\\app\\models\\student.ts",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\models\\student.ts",
+              "RelativeToolTip": "studentregistrationapp.client\\src\\app\\models\\student.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-04T22:32:14.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "courses.service.spec.ts",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\services\\courses.service.spec.ts",
+              "RelativeDocumentMoniker": "studentregistrationapp.client\\src\\app\\services\\courses.service.spec.ts",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\services\\courses.service.spec.ts",
+              "RelativeToolTip": "studentregistrationapp.client\\src\\app\\services\\courses.service.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-06T13:34:12.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "login.component.css",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\login\\login.component.css",
+              "RelativeDocumentMoniker": "studentregistrationapp.client\\src\\app\\login\\login.component.css",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\login\\login.component.css",
+              "RelativeToolTip": "studentregistrationapp.client\\src\\app\\login\\login.component.css",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwD8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-05T17:43:59.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "proxy.conf.js",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\proxy.conf.js",
+              "RelativeDocumentMoniker": "studentregistrationapp.client\\src\\proxy.conf.js",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\proxy.conf.js",
+              "RelativeToolTip": "studentregistrationapp.client\\src\\proxy.conf.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-06T13:44:25.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "tsconfig.json",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\tsconfig.json",
+              "RelativeDocumentMoniker": "studentregistrationapp.client\\tsconfig.json",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\tsconfig.json",
+              "RelativeToolTip": "studentregistrationapp.client\\tsconfig.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-06T13:43:50.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\styles.css",
+              "RelativeDocumentMoniker": "studentregistrationapp.client\\src\\styles.css",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\styles.css",
+              "RelativeToolTip": "studentregistrationapp.client\\src\\styles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-06T13:43:28.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "proxy.conf.json",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\proxy.conf.json",
+              "RelativeDocumentMoniker": "studentregistrationapp.client\\proxy.conf.json",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\proxy.conf.json",
+              "RelativeToolTip": "studentregistrationapp.client\\proxy.conf.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-06T13:43:46.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\index.html",
+              "RelativeDocumentMoniker": "studentregistrationapp.client\\src\\index.html",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\index.html",
+              "RelativeToolTip": "studentregistrationapp.client\\src\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-05T16:43:30.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "home.component.css",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\home\\home.component.css",
+              "RelativeDocumentMoniker": "studentregistrationapp.client\\src\\app\\home\\home.component.css",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\home\\home.component.css",
+              "RelativeToolTip": "studentregistrationapp.client\\src\\app\\home\\home.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-05T18:04:15.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "subject.ts",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\models\\subject.ts",
+              "RelativeDocumentMoniker": "studentregistrationapp.client\\src\\app\\models\\subject.ts",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\models\\subject.ts",
+              "RelativeToolTip": "studentregistrationapp.client\\src\\app\\models\\subject.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-04T22:36:54.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "auth.service.spec.ts",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\services\\auth.service.spec.ts",
+              "RelativeDocumentMoniker": "studentregistrationapp.client\\src\\app\\services\\auth.service.spec.ts",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\services\\auth.service.spec.ts",
+              "RelativeToolTip": "studentregistrationapp.client\\src\\app\\services\\auth.service.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-05T17:06:35.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "my-courses.component.css",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\my-courses\\my-courses.component.css",
+              "RelativeDocumentMoniker": "studentregistrationapp.client\\src\\app\\my-courses\\my-courses.component.css",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\my-courses\\my-courses.component.css",
+              "RelativeToolTip": "studentregistrationapp.client\\src\\app\\my-courses\\my-courses.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-05T18:17:55.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "student-form.component.ts",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\student-form\\student-form.component.ts",
+              "RelativeDocumentMoniker": "studentregistrationapp.client\\src\\app\\student-form\\student-form.component.ts",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\src\\app\\student-form\\student-form.component.ts",
+              "RelativeToolTip": "studentregistrationapp.client\\src\\app\\student-form\\student-form.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-05T17:06:40.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "StudentRegistrationApp.Server.http",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\StudentRegistrationApp.Server\\StudentRegistrationApp.Server.http",
+              "RelativeDocumentMoniker": "StudentRegistrationApp.Server\\StudentRegistrationApp.Server.http",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\StudentRegistrationApp.Server\\StudentRegistrationApp.Server.http",
+              "RelativeToolTip": "StudentRegistrationApp.Server\\StudentRegistrationApp.Server.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-07-05T16:26:59.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\StudentRegistrationApp.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentRegistrationApp.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\StudentRegistrationApp.Server\\appsettings.json",
+              "RelativeToolTip": "StudentRegistrationApp.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-04T21:43:30.659Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

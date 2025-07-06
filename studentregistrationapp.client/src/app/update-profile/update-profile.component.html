@@ -1,0 +1,43 @@
+<div class="form-wrapper" *ngIf="form">
+  <form [formGroup]="form" (ngSubmit)="onSubmit()" class="form-box">
+    <h2 class="form-title">Actualizar Datos Personales</h2>
+
+    <div class="form-row">
+      <mat-form-field appearance="outline" class="full-width">
+        <mat-label>Nombre</mat-label>
+        <input matInput formControlName="name">
+      </mat-form-field>
+
+      <mat-form-field appearance="outline" class="full-width">
+        <mat-label>Apellido</mat-label>
+        <input matInput formControlName="lastname">
+      </mat-form-field>
+    </div>
+
+    <div class="form-row">
+      <mat-form-field appearance="outline" class="full-width">
+        <mat-label>Correo</mat-label>
+        <input matInput formControlName="email">
+      </mat-form-field>
+
+      <mat-form-field appearance="outline" class="full-width">
+        <mat-label>Celular</mat-label>
+        <input matInput formControlName="cellphone">
+      </mat-form-field>
+    </div>
+
+    <div class="form-row">
+      <mat-form-field appearance="outline" class="full-width">
+        <mat-label>Dirección</mat-label>
+        <input matInput formControlName="address">
+      </mat-form-field>
+    </div>
+
+    <div class="form-actions">
+      <button mat-raised-button color="primary" type="submit" [disabled]="form.invalid">
+        Actualizar
+      </button>
+      <button mat-raised-button color="warn" type="button" (click)="onDelete()">Eliminar Cuenta</button>
+    </div>
+  </form>
+</div>

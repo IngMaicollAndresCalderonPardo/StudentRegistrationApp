@@ -1,0 +1,72 @@
+.login-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  padding: 20px;
+  background-color: #000;
+  text-align: center;
+}
+
+.login-container__logo {
+  width: 200px;
+  height: 60px;
+  margin-bottom: 20px;
+}
+
+.login-container__logo img {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+}
+
+.login-container h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: #f9f9f9;
+}
+
+.login-form {
+  width: 100%;
+  max-width: 400px;
+}
+
+.full-width {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.register-option {
+  margin-top: 20px;
+  font-size: 14px;
+  color: white;
+}
+
+.register-option a {
+  color: #c65f07;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+/* Estilo de los botones de Angular Material */
+.mdc-button__label,
+.mat-mdc-raised-button:not(:disabled) {
+  color: #c65f07 !important;
+}
+
+p{
+    color:red;
+}
+
+.error {
+  color: red;
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+.register-link {
+  color: #1976d2;
+  cursor: pointer;
+  text-decoration: underline;
+}

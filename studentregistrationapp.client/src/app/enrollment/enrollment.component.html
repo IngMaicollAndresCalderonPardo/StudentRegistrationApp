@@ -1,0 +1,57 @@
+<div class="courses-container">
+  <h1>Registro de Materias</h1>
+
+  <!-- Formulario para inscribir materias (solo si aún puede inscribirse) -->
+  <div *ngIf="registeredSubjects.length < 3" class="form-section">
+    <p class="chip-instructions">
+      Has inscrito {{ registeredSubjects.length }} de 3 materias. Puedes registrar hasta {{ 3 - registeredSubjects.length }} más.
+    </p>
+
+    <mat-chip-listbox [multiple]="true" aria-label="Registro de materias">
+      <mat-chip-option *ngFor="let s of subjects"
+                       [value]="s.subjectId"
+                       (selectionChange)="toggleSelection(s)"
+                       [selected]="isSelected(s)"
+                       [disabled]="isDisabledSubject(s)">
+        {{ s.name }}
+      </mat-chip-option>
+    </mat-chip-listbox>
+
+    <button mat-raised-button color="primary"
+            (click)="onSubmit()"
+            [disabled]="selectedCount === 0 || (registeredSubjects.length + selectedCount) > 3">
+      Guardar
+    </button>
+  </div>
+
+  <!-- Sección de materias ya inscritas -->
+  <div *ngIf="registeredSubjects.length > 0" class="registered-section">
+    <h2>Materias inscritas</h2>
+
+    <table mat-table [dataSource]="registeredSubjects" class="mat-elevation-z8 full-width-table">
+
+      <!-- Materia -->
+      <ng-container matColumnDef="materia">
+        <th mat-header-cell *matHeaderCellDef> Materia </th>
+        <td mat-cell *matCellDef="let row"> {{ row.materiaNombre }} </td>
+      </ng-container>
+
+      <!-- Profesor -->
+      <ng-container matColumnDef="profesor">
+        <th mat-header-cell *matHeaderCellDef> Profesor </th>
+        <td mat-cell *matCellDef="let row"> {{ row.profesorNombre }} </td>
+      </ng-container>
+
+      <!-- Acciones -->
+      <ng-container matColumnDef="acciones">
+        <th mat-header-cell *matHeaderCellDef> Acciones </th>
+        <td mat-cell *matCellDef="let row">
+          <button mat-button color="warn" (click)="removeSubject(row.materiaId)">Eliminar</button>
+        </td>
+      </ng-container>
+
+      <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+      <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+    </table>
+  </div>
+</div>

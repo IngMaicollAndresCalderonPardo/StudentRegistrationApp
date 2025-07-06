@@ -1,0 +1,38 @@
+<mat-toolbar color="primary" class="navbar" *ngIf="showToolbar">
+  <span class="logo">Sistema Estudiantes</span>
+
+  <span class="spacer"></span>
+
+  <button mat-button routerLink="/home">
+    <mat-icon>home</mat-icon>
+    Home
+  </button>
+
+  <button mat-button routerLink="/enrollment">
+    <mat-icon>school</mat-icon>
+    Matricular
+  </button>
+
+  <button mat-button routerLink="/mycourses">
+    <mat-icon>menu_book</mat-icon>
+    Mis Materias
+  </button>
+
+  <button mat-button routerLink="/students">
+    <mat-icon>group</mat-icon>
+    Estudiantes
+  </button>
+
+  <button mat-button routerLink="/profile">
+    <mat-icon>group</mat-icon>
+    Perfil
+  </button>
+
+  <button mat-button (click)="logout()">
+    <mat-icon>logout</mat-icon>
+    Cerrar sesión
+  </button>
+
+</mat-toolbar>
+
+<router-outlet> </router-outlet>

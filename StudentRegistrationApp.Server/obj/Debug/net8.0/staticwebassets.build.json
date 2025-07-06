@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "Hash": "E4gPjmwGjaFOXOLW38DhOZYb4zQuTIRgmqwwoOUv9nE=",
+  "Source": "StudentRegistrationApp.Server",
+  "BasePath": "_content/StudentRegistrationApp.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\studentregistrationapp.client\\studentregistrationapp.client.esproj",
+      "Version": 2,
+      "Source": "studentregistrationapp.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\StudentRegistrationApp.Server\\obj\\Debug\\net8.0\\scopedcss\\bundle\\StudentRegistrationApp.Server.styles.css",
+      "SourceId": "StudentRegistrationApp.Server",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\StudentRegistrationApp.Server\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/StudentRegistrationApp.Server",
+      "RelativePath": "StudentRegistrationApp.Server#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "saf78fwrz7",
+      "Integrity": "zFLMcpt/Z4S+gMUkgX87rK8P1vedf0Gytvl5+lVuuA8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\StudentRegistrationApp.Server\\obj\\Debug\\net8.0\\scopedcss\\bundle\\StudentRegistrationApp.Server.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\StudentRegistrationApp.Server\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\StudentRegistrationApp.Server.bundle.scp.css",
+      "SourceId": "StudentRegistrationApp.Server",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\StudentRegistrationApp.Server\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/StudentRegistrationApp.Server",
+      "RelativePath": "StudentRegistrationApp.Server#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "saf78fwrz7",
+      "Integrity": "zFLMcpt/Z4S+gMUkgX87rK8P1vedf0Gytvl5+lVuuA8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\StudentRegistrationApp.Server\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\StudentRegistrationApp.Server.bundle.scp.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "StudentRegistrationApp.Server.bundle.scp.css",
+      "AssetFile": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\StudentRegistrationApp.Server\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\StudentRegistrationApp.Server.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1187"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zFLMcpt/Z4S+gMUkgX87rK8P1vedf0Gytvl5+lVuuA8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Jul 2025 20:47:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zFLMcpt/Z4S+gMUkgX87rK8P1vedf0Gytvl5+lVuuA8="
+        }
+      ]
+    },
+    {
+      "Route": "StudentRegistrationApp.Server.saf78fwrz7.bundle.scp.css",
+      "AssetFile": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\StudentRegistrationApp.Server\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\StudentRegistrationApp.Server.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1187"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zFLMcpt/Z4S+gMUkgX87rK8P1vedf0Gytvl5+lVuuA8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Jul 2025 20:47:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "saf78fwrz7"
+        },
+        {
+          "Name": "label",
+          "Value": "StudentRegistrationApp.Server.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zFLMcpt/Z4S+gMUkgX87rK8P1vedf0Gytvl5+lVuuA8="
+        }
+      ]
+    },
+    {
+      "Route": "StudentRegistrationApp.Server.saf78fwrz7.styles.css",
+      "AssetFile": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\StudentRegistrationApp.Server\\obj\\Debug\\net8.0\\scopedcss\\bundle\\StudentRegistrationApp.Server.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1187"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zFLMcpt/Z4S+gMUkgX87rK8P1vedf0Gytvl5+lVuuA8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Jul 2025 20:47:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "saf78fwrz7"
+        },
+        {
+          "Name": "label",
+          "Value": "StudentRegistrationApp.Server.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zFLMcpt/Z4S+gMUkgX87rK8P1vedf0Gytvl5+lVuuA8="
+        }
+      ]
+    },
+    {
+      "Route": "StudentRegistrationApp.Server.styles.css",
+      "AssetFile": "C:\\Users\\ingMa\\source\\repos\\StudentRegistrationApp\\StudentRegistrationApp.Server\\obj\\Debug\\net8.0\\scopedcss\\bundle\\StudentRegistrationApp.Server.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1187"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zFLMcpt/Z4S+gMUkgX87rK8P1vedf0Gytvl5+lVuuA8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Jul 2025 20:47:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zFLMcpt/Z4S+gMUkgX87rK8P1vedf0Gytvl5+lVuuA8="
+        }
+      ]
+    }
+  ]
+}
